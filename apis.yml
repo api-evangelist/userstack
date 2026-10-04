@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/userstack.png
 name: Userstack
 description: "Secure User-Agent String Lookup JSON API"
-url: https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+url: https://userstack.com/
 specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
@@ -39,17 +39,16 @@ apis:
   - name: Userstack
     description: "Secure User-Agent String Lookup JSON API"
     humanURL: https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
-    baseURL: https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
     tags:
       - Development
     properties:
       - type: Documentation
-        url: https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+        url: https://userstack.com/
 common:
   - type: DomainSecurity
     url: security/userstack-domain-security.yml
   - type: Website
-    url: https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+    url: https://userstack.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
 maintainers:
